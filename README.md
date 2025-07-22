@@ -32,7 +32,6 @@ RFM stands for:
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
-- Optional: KMeans or other clustering methods (if used)
 
 ## Steps Performed
 
@@ -53,14 +52,6 @@ RFM stands for:
 4. **Data Visualization**
    - Histograms and boxplots for RFM distributions
    - Segment-wise customer counts
-   - Heatmaps (if used)
-
-## Example Output (if applicable)
-
-| Customer ID | R | F | M | Segment   |
-|-------------|---|---|---|-----------|
-| 12345       | 5 | 5 | 5 | Champions |
-| 54321       | 1 | 2 | 1 | At Risk   |
 
 ## Results
 
